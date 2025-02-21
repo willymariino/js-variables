@@ -17,8 +17,19 @@ const lastName = 'Smith'; // NON MODIFICARE QUESTA RIGA
 const name = 'Willy'
 console.log('willy')
 
+let number = 42
+let text = 'ciao'
+let bool = 'true'
+
+console.log('number')
+console.log('text')
+console.log('bool')
+
+console.log(firstName + ' ' + lastName);
 
 // 4. Imposta questa variabile utilizzando una proprietà
 // sulla variabile alphabet per ottenere la sua lunghezza
 const numberOfLettersInAlphabet = null;
 console.log(numberOfLettersInAlphabet); // Output: 26
+
+
