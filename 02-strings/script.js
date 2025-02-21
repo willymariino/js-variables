@@ -21,8 +21,8 @@ let number = 42
 let text = 'ciao'
 let bool = true
 
-console.log('number')
-console.log('text')
+console.log(number)
+console.log(text)
 console.log(bool)
 
 console.log(firstName + ' ' + lastName);
