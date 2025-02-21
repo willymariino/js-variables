@@ -30,6 +30,6 @@ console.log(firstName + ' ' + lastName);
 // 4. Imposta questa variabile utilizzando una proprietà
 // sulla variabile alphabet per ottenere la sua lunghezza
 const numberOfLettersInAlphabet = number;
-console.log(26); // Output: 26
+console.log('26'); // Output: 26
 
 
