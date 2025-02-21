@@ -15,7 +15,7 @@ const firstName = 'Jane'; // NON MODIFICARE QUESTA RIGA
 const lastName = 'Smith'; // NON MODIFICARE QUESTA RIGA
 
 const name = 'Willy'
-console.log('willy')
+console.log(name)
 
 let number = 42
 let text = 'ciao'
