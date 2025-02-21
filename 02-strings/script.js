@@ -23,13 +23,14 @@ let bool = 'true'
 
 console.log('42')
 console.log('ciao')
-console.log('true')
+console.log(true)
 
 console.log(firstName + ' ' + lastName);
 
 // 4. Imposta questa variabile utilizzando una proprietà
 // sulla variabile alphabet per ottenere la sua lunghezza
-const numberOfLettersInAlphabet = number;
-console.log('26'); // Output: 26
+const numberOfLettersInAlphabet = Alphabet.lenght;
+count =
+    console.log('numberOfLettersInAlphabet'); // Output: 26
 
 
