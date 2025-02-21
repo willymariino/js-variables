@@ -29,7 +29,7 @@ console.log(firstName + ' ' + lastName);
 
 // 4. Imposta questa variabile utilizzando una proprietà
 // sulla variabile alphabet per ottenere la sua lunghezza
-const numberOfLettersInAlphabet = alphabet.lenght
+const numberOfLettersInAlphabet = alphabet.length
 console.log(numberOfLettersInAlphabet) // Output: 26
 
 
